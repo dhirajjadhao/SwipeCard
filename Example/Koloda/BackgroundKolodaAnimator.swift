@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import Koloda
+import SwipeCard
 import pop
 
 class BackgroundKolodaAnimator: KolodaViewAnimator {

@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Koloda
+import SwipeCard
 import pop
 
 private let numberOfCards: Int = 5

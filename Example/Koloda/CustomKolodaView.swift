@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Koloda
+import SwipeCard
 
 let defaultTopOffset: CGFloat = 20
 let defaultHorizontalOffset: CGFloat = 10

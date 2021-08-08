@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C517E4AA1D9CF9010002D88F"
-               BuildableName = "Swipe Card.framework"
-               BlueprintName = "Swipe Card"
-               ReferencedContainer = "container:Swipe Card.xcodeproj">
+               BuildableName = "SwipeCard.framework"
+               BlueprintName = "SwipeCard"
+               ReferencedContainer = "container:SwipeCard.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -44,9 +44,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C517E4AA1D9CF9010002D88F"
-            BuildableName = "Swipe Card.framework"
-            BlueprintName = "Swipe Card"
-            ReferencedContainer = "container:Swipe Card.xcodeproj">
+            BuildableName = "SwipeCard.framework"
+            BlueprintName = "SwipeCard"
+            ReferencedContainer = "container:SwipeCard.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -60,9 +60,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C517E4AA1D9CF9010002D88F"
-            BuildableName = "Swipe Card.framework"
-            BlueprintName = "Swipe Card"
-            ReferencedContainer = "container:Swipe Card.xcodeproj">
+            BuildableName = "SwipeCard.framework"
+            BlueprintName = "SwipeCard"
+            ReferencedContainer = "container:SwipeCard.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

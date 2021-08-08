@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Koloda
+import SwipeCard
 
 private let overlayRightImageName = "yesOverlayImage"
 private let overlayLeftImageName = "noOverlayImage"
